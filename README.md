@@ -1,2 +1,2 @@
 # Cpp
-C++  language tests
+C++  language lessons and tests
